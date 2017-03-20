@@ -1,0 +1,10 @@
+<html>
+	<head>
+		<title>testing terminal</title>
+	</head>
+
+	<body>
+		<h1>hi from terminal local just testing for fun</h1>
+	</body>
+
+</html>
